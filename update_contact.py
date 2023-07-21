@@ -8,7 +8,7 @@ headers = {
     'Cache-Control': 'no-cache'
 }
 
-api_key = 'Za6inSnzqh93LPdeJwyGng'
+api_key = ''
 csv_file = 'contact_data.csv'
 url = 'https://api.apollo.io/v1/people/match'
 reveal_personal_emails = True
